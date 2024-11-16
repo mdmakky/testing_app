@@ -1,0 +1,19 @@
+{
+  "name": "test_app",
+  "version": "1.0.0",
+  "description": "this app is for learning purpose",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "app",
+    "learning"
+  ],
+  "author": "md makky",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
